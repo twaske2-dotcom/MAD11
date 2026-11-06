@@ -219,7 +219,10 @@ The student details card displays the student Name and USN cleanly at the bottom
 
 ### Screenshot – Student Details Display
 
-*(Add your screenshot here)*
+<img width="499" height="1024" alt="image" src="https://github.com/user-attachments/assets/612a8d8b-f27d-4ad5-a7c3-fd8cecd2e6db" />
+<img width="500" height="1024" alt="image" src="https://github.com/user-attachments/assets/4494a044-25d9-4e94-ae4d-9a7a77842186" />
+<img width="500" height="1024" alt="image" src="https://github.com/user-attachments/assets/293ad596-9cca-4410-8e14-88fd9d15e93c" />
+
 
 ---
 
